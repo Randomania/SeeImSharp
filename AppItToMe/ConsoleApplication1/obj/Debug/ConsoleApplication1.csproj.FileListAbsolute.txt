@@ -1,1 +1,6 @@
 c:\users\abdiel\documents\github\SeeImSharp\AppItToMe\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\abdiel\documents\github\SeeImSharp\AppItToMe\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\abdiel\documents\github\SeeImSharp\AppItToMe\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\abdiel\documents\github\SeeImSharp\AppItToMe\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\abdiel\documents\github\SeeImSharp\AppItToMe\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\abdiel\documents\github\SeeImSharp\AppItToMe\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
