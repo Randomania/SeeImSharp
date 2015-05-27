@@ -1,0 +1,5 @@
+c:\users\abdiel\documents\github\SeeImSharp\Week01Day01PlayMovieQuotes\Week01Day01PlayMovieQuotes\bin\Debug\Week01Day01PlayMovieQuotes.exe.config
+c:\users\abdiel\documents\github\SeeImSharp\Week01Day01PlayMovieQuotes\Week01Day01PlayMovieQuotes\bin\Debug\Week01Day01PlayMovieQuotes.exe
+c:\users\abdiel\documents\github\SeeImSharp\Week01Day01PlayMovieQuotes\Week01Day01PlayMovieQuotes\bin\Debug\Week01Day01PlayMovieQuotes.pdb
+c:\users\abdiel\documents\github\SeeImSharp\Week01Day01PlayMovieQuotes\Week01Day01PlayMovieQuotes\obj\Debug\Week01Day01PlayMovieQuotes.exe
+c:\users\abdiel\documents\github\SeeImSharp\Week01Day01PlayMovieQuotes\Week01Day01PlayMovieQuotes\obj\Debug\Week01Day01PlayMovieQuotes.pdb

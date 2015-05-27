@@ -1,0 +1,6 @@
+c:\users\abdiel\documents\github\SeeImSharp\Week01Day01Contrarian\Week01Day01Conrarian\bin\Debug\Week01Day01Conrarian.exe.config
+C:\Users\Abdiel\Documents\GitHub\SeeImSharp\Week01Day01Contrarian\Week01Day01Conrarian\obj\Debug\Week01Day01Conrarian.csprojResolveAssemblyReference.cache
+C:\Users\Abdiel\Documents\GitHub\SeeImSharp\Week01Day01Contrarian\Week01Day01Conrarian\bin\Debug\Week01Day01Conrarian.exe
+C:\Users\Abdiel\Documents\GitHub\SeeImSharp\Week01Day01Contrarian\Week01Day01Conrarian\bin\Debug\Week01Day01Conrarian.pdb
+C:\Users\Abdiel\Documents\GitHub\SeeImSharp\Week01Day01Contrarian\Week01Day01Conrarian\obj\Debug\Week01Day01Conrarian.exe
+C:\Users\Abdiel\Documents\GitHub\SeeImSharp\Week01Day01Contrarian\Week01Day01Conrarian\obj\Debug\Week01Day01Conrarian.pdb
