@@ -1,1 +1,6 @@
 c:\users\abdiel\documents\github\SeeImSharp\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+c:\users\abdiel\documents\github\SeeImSharp\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+c:\users\abdiel\documents\github\SeeImSharp\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+c:\users\abdiel\documents\github\SeeImSharp\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
+c:\users\abdiel\documents\github\SeeImSharp\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+c:\users\abdiel\documents\github\SeeImSharp\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb

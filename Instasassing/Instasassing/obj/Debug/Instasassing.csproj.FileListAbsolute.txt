@@ -1,0 +1,6 @@
+c:\users\abdiel\documents\github\SeeImSharp\Instasassing\Instasassing\bin\Debug\Instasassing.exe.config
+c:\users\abdiel\documents\github\SeeImSharp\Instasassing\Instasassing\bin\Debug\Instasassing.exe
+c:\users\abdiel\documents\github\SeeImSharp\Instasassing\Instasassing\bin\Debug\Instasassing.pdb
+c:\users\abdiel\documents\github\SeeImSharp\Instasassing\Instasassing\obj\Debug\Instasassing.csprojResolveAssemblyReference.cache
+c:\users\abdiel\documents\github\SeeImSharp\Instasassing\Instasassing\obj\Debug\Instasassing.exe
+c:\users\abdiel\documents\github\SeeImSharp\Instasassing\Instasassing\obj\Debug\Instasassing.pdb

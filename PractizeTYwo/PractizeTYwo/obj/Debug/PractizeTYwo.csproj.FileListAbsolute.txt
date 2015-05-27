@@ -1,0 +1,6 @@
+c:\users\abdiel\documents\github\SeeImSharp\PractizeTYwo\PractizeTYwo\bin\Debug\PractizeTYwo.exe.config
+c:\users\abdiel\documents\github\SeeImSharp\PractizeTYwo\PractizeTYwo\obj\Debug\PractizeTYwo.csprojResolveAssemblyReference.cache
+c:\users\abdiel\documents\github\SeeImSharp\PractizeTYwo\PractizeTYwo\bin\Debug\PractizeTYwo.exe
+c:\users\abdiel\documents\github\SeeImSharp\PractizeTYwo\PractizeTYwo\bin\Debug\PractizeTYwo.pdb
+c:\users\abdiel\documents\github\SeeImSharp\PractizeTYwo\PractizeTYwo\obj\Debug\PractizeTYwo.exe
+c:\users\abdiel\documents\github\SeeImSharp\PractizeTYwo\PractizeTYwo\obj\Debug\PractizeTYwo.pdb

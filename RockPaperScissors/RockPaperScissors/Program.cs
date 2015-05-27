@@ -10,6 +10,11 @@ namespace RockPaperScissors
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("How many Megabytes in your HardDrive?");
+            Product Laptop = new Product();
+            Laptop.hardDriveGB = 90;
+            Console.WriteLine(Laptop.ShowMB());
+            Console.ReadKey();
         }
     }
 }
