@@ -36,15 +36,34 @@ namespace Week01Day01Conrarian
 
             for (j = 0; j < mixing.Length; j++)
             {
-                
-                if (mixing[j] == "don't")
+                if (mixing[j] == "like" && mixing[j - 1] != "do")
+                {
+                    mixing[j] = "don't like";
+                }
+                else if (mixing[j] == "don't")
                 {
                     mixing[j] = "do";
-                    
+
                 }
                 else if (mixing[j] == "do")
                 {
                     mixing[j] = "don't";
+                }
+                else if (mixing[j] == "hate")
+                {
+                    mixing[j] = "love";
+                }
+                else if (mixing[j] == "love")
+                {
+                    mixing[j] = "hate";
+                }
+                else if (mixing[j] == "horrible")
+                {
+                    mixing[j] = "beautiful";
+                }
+                else if (mixing[j] == "beautiful")
+                {
+                    mixing[j] = "horrible";
                 }
             }
 
