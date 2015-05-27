@@ -1,0 +1,1 @@
+c:\users\abdiel\documents\github\SeeImSharp\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
