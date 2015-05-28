@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace RockPaperScissors
 {
-    class PlayerScissors
+    public class PlayerScissors
     {
+        public static string Act()
+        {
+            string response = "S";
+            return response;
+        }   
     }
 }

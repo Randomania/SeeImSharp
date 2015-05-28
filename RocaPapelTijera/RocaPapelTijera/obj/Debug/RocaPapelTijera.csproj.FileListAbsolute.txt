@@ -1,0 +1,6 @@
+c:\users\abdiel\documents\github\SeeImSharp\RocaPapelTijera\RocaPapelTijera\bin\Debug\RocaPapelTijera.exe.config
+c:\users\abdiel\documents\github\SeeImSharp\RocaPapelTijera\RocaPapelTijera\obj\Debug\RocaPapelTijera.csprojResolveAssemblyReference.cache
+c:\users\abdiel\documents\github\SeeImSharp\RocaPapelTijera\RocaPapelTijera\bin\Debug\RocaPapelTijera.exe
+c:\users\abdiel\documents\github\SeeImSharp\RocaPapelTijera\RocaPapelTijera\bin\Debug\RocaPapelTijera.pdb
+c:\users\abdiel\documents\github\SeeImSharp\RocaPapelTijera\RocaPapelTijera\obj\Debug\RocaPapelTijera.exe
+c:\users\abdiel\documents\github\SeeImSharp\RocaPapelTijera\RocaPapelTijera\obj\Debug\RocaPapelTijera.pdb

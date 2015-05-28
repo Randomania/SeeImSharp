@@ -6,8 +6,15 @@ using System.Threading.Tasks;
 
 namespace RockPaperScissors
 {
-    class PlayerPaper
+    public class PlayerPaper
     {
-         
+
+     public static int Roll()
+     {
+         Random util = new Random();
+         int choice = util.Next(3);
+         return choice;
+     }   
+
     }
 }
